@@ -7,7 +7,7 @@
     "AMDIN_NAME": "HỒNG VI",
     "keyRent": "nhv",
     "FACEBOOK_ADMIN": "https://www.facebook.com/nhvctii",
-    "PREFIX": "T",
+    "PREFIX": ".",
     "box_admin": "",
     "ADMINBOT": [
         "61572881026218",
@@ -48,7 +48,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAGNO4a7r2wBQ4tAThZAlQFrug95buCuZBuJeq4exWBc4TjqzXphNMTAZCpQLcnFPC5RJxgocVHZAuZBaQnKCyvkFYjqz7WPziHa7Mgo4BOHQkue3YmYdLKOQFegQZB5KeMuEfhXouYid3rm32sESJ3kmtMpZCnZB0WoiGA1MwLo9O67TOPqVqOt6NUiDWV4vgZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBQZBe9DgRCLLeSkE1xol5ZCTcCOZBgKrLmdlb6dSXorS38SxUPI8MtWVsZBFUj9k97Ulnp8LZBMKbTZCOwfMx79aD2w4adZAbIsEm8LrSBJK8wbokObOelGZCZAZCf6IUK23714JrSpMR5pTFjM5IQLbSgIFFpQwXheU34abosXGV624F9zowKgJAZDZD",
     "leave": {
         "status": false,
         "number": 5
